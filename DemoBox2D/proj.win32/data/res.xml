@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resourses>
+   <set path = "sounds"/>
+  <sound file = "Engine_Fire0.ogg"/>
+  <sound file = "Break0.ogg"/>
+  <sound file = "Break1.ogg"/>
+  <sound file = "Break2.ogg"/>
+  <sound file = "Engine_Fire1.ogg"/>
+  <sound file = "Engine_Fire2.ogg"/>
+  <sound file = "Button_Click.ogg"/>
+  <sound file = "Run_Out_Of_Fuel.ogg"/>
+  <sound file = "Land_On_Platform.ogg"/>
+  <sound file = "Land On Final Platform.ogg"/>
+  <sound file = "Almost Made It.ogg"/>
+  <sound file = "Black_Hole_Suck.ogg"/>
+  <sound file = "Black_Hole_Wind.ogg"/>
+  <sound file = "Collision.ogg"/>
+  <set path = "images"/>
+  <atlas>
+    
+   
+    <image file = "Block.png"/>
+    <image file = "Ship_Engine.png"/>
+    <image file = "Ship_Engine_Ani.png" cols = "4"/>
+    <image file = "Ship_Left_Leg.png"/>
+    <image file = "Ship_Right_Leg.png"/>
+    <image file = "Ship_Torso.png"/>
+    <image file = "Ship_Fuel.png"/>
+    <image file = "Ship_Empty.png"/>
+    <image file = "Platform.png"/>
+    <image file = "Arrow.png"/>
+    <image file = "Pin_stick.png"/>
+    <image file = "Pinwheel.png"/>
+    <image file = "Black_Hole.png"/>
+    <image file = "compass.png"/>
+    <image file = "Clouds_Bottom.png"/>
+    <image file = "Clouds_Top.png"/>
+    <image file = "Clouds_Top2.png"/>
+    <image file = "Clouds_Top3.png"/>
+    <image file = "Button.png" cols = "3" />
+    <image file = "Ground_Grass_0.png" />
+    <image file = "Ground_Flower_0.png" />
+    <image file = "Space_Bg.png" />
+    <image file = "Space_Bg2.png" />
+    <image file = "ForceField_Arrow.png" cols = "4" />
+    <image file = "Spike.png"/>
+    <image file = "Block2.png"/>
+    <image file = "Temple_Backdrop.png"/>
+    <image file = "Spike_R.png"/>
+    <image file = "Balloon.png" cols = "3"/>
+    <image file = "Balloon_pop.png" cols = "3"/>
+    <image file = "Sun.png"/>
+    <image file = "Hot_Air_Balloon.png"/>
+    <image file = "Chainsaw_Circle.png"/>
+    <image file = "Block_W2.png"/>
+    <image file = "Ground_Flower_0_W2.png"/>
+    <image file = "Ground_Grass_0_W2.png"/>
+    <image file = "Raindrop.png"/>
+    <image file = "Bubble.png"/>
+    <image file = "Snow.png"/>
+    <image file = "Big_Bunny.png"/>
+    <image file = "Pause_Button.png" cols = "6"/>
+    <image file = "ash.png"/>
+    <image file = "Volcano_back.png"/>
+    <image file = "Volcano_front.png"/>
+    <image file = "BreezeFlower_0.png"/>
+    <image file = "BreezeFlower_1.png"/>
+    <image file = "BreezeFlower_2.png"/>
+    <image file = "C_M.png"/>
+    <image file = "Rock_Decor0.png"/>
+    <image file = "Rock_Decor1.png"/>
+    <image file = "Rock_Decor2.png"/>
+    <image file = "Bird_Nest.png"/>
+    <image file = "Bird_Body.png"/>
+    <image file = "Bird_Eye.png"/>
+    <image file = "Bird_Jaw.png"/>
+    <image file = "Bird_Thanks.png"/>
+    <image file = "Final_Bird_Flapping.png" cols = "4"/>
+    <image file = "Planet0.png"/>
+    <image file = "Planet0_Features.png" cols = "3"/>
+    <image file = "Planet1.png"/>
+    <image file = "Congrats.png"/>
+    <image file = "I_Dot.png"/>
+    <image file = "I_Dot2.png"/>
+    <image file = "Torso_Alpha.png"/>
+    <image file = "Logo.png"/>
+    <image file = "I_Hand.png"/>
+  </atlas>
+  <font file = "num_bitmap.fnt"/>
+</resourses>
